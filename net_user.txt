@@ -1,0 +1,12 @@
+1 way
+-------------
+1.net user
+2.net user user *
+3.enter enter pres
+-------------
+2 way 
+for example my application (SteamSetup.exe)
+1.create new  bat file (name hacker)
+2. 	Set __COMPAT_LAYER=RunAsInvoker
+	Start SteamSetup.exe
+3.save and run hacker.bat file
