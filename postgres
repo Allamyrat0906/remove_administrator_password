@@ -1,0 +1,7 @@
+# 1) download postgresql > download > Linuc > Ubuntu
+    sudo apt update
+# 2) download pgadmin > download > apt > next
+    sudo apt install curl
+    sudo -u postgres psql
+    alter user postgres with password 'password';
+   done 
