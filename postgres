@@ -5,3 +5,8 @@
     sudo -u postgres psql
     alter user postgres with password 'password';
    done 
+
+
+
+create > query design > query view > sql view > run 
+UPDATE EmployeData SET EmployeData.ID = DCount("*","EmployeData","[ID] <=" & [ID]);
